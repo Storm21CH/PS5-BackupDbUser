@@ -5,9 +5,9 @@ Webkit Payload: AllinOne Dumper. Dumping all Database and User files to USB
 
 Version 1.0 by Storm
 
-    Start Exploit
-    Load Payload
-    Insert USB
+- Start Exploit
+- Load Payload
+- Insert USB
 
 Credits:
 
